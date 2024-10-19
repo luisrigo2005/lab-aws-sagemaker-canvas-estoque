@@ -36,7 +36,6 @@ Repositório de Exemplo: Consultei este repositório no GitHub que contém exemp
 Dicas e Links Úteis
 Para me desenvolver ainda mais e me destacar na DIO e no mercado de trabalho, utilizei os seguintes recursos:
 
-Artigos e Fórum da DIO: Compartilhei meus conhecimentos e dúvidas através dos artigos (visíveis globalmente na plataforma da DIO) e nos fóruns específicos para cada experiência educacional, como nossos Bootcamps.
-Rooms: Participei do Rooms, uma ferramenta de bate-papo em tempo real onde interagi com outros participantes dos nossos Bootcamps, compartilhando dúvidas, dicas e snippets de código.
+Artigos e Fórum da DIO: Compartilhei meus conhecimentos e dúvidas através dos artigos e nos fóruns específicos para cada experiência educacional, como nossos Bootcamps.
 Exploração na Web: Utilizei motores de busca para aprofundar meu conhecimento sobre temas específicos. Páginas como o StackOverflow foram recursos valiosos para encontrar soluções e expandir meu entendimento.
 Com esses materiais complementares, estou bem equipado para explorar todo o potencial do SageMaker Canvas e me destacar em minhas iniciativas de IA. Continuei aproveitando as oportunidades de aprendizado oferecidas pela DIO e pela AWS, e não hesitei em buscar mais conhecimento e compartilhar minhas descobertas com a comunidade!
