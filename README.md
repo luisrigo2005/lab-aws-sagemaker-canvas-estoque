@@ -6,7 +6,7 @@ Desenvolver um modelo de previsão de estoque utilizando o SageMaker Canvas e do
 github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque
 
 ## Pré-requisitos
-Antes de começar, certifiquei-me de ter uma conta na AWS. Se precisar de ajuda para criar sua conta, confira o repositório AWS Cloud Quickstart.
+Antes de começar, certifiquei-me de ter uma conta na AWS.
 
 ## Passo a Passo
 ### 1. Selecionar Dataset
